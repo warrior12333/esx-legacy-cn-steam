@@ -1,4 +1,4 @@
-# YCGroup / esx-legacy-steam
+esx-legacy-steam
 
 基于ESX framework 1.9.0版进行了修改
 将Rockstar身份验证修改为steam身份验证
