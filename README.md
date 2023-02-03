@@ -12,6 +12,8 @@ Supporting multiple roles
 
 If you have any questions, please raise them on the "issue"
 
+[![Security Status](https://www.murphysec.com/platform3/v3/badge/1619392909648900096.svg?t=1)](https://www.murphysec.com/accept?code=87d3fdb30097994c97a51e8f0954c6f9&type=1&from=2&t=2)
+
 ***
 ## About us / 关于我们 
 YCGroup
